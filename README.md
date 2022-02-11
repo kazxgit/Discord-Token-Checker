@@ -6,6 +6,8 @@ Discord Token Checker for checking discord tokens!
 
 Install NodeJS: https://nodejs.org/en/download/
 
+Extract Discord-Token-Checker-main.rar
+
 Run checker.exe
 
 ```
